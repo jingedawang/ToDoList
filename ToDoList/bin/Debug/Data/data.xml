@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ToDoList>
+  <Item Id="0" Content="This is the first item."></Item>
+  <Item Id="1" Content="This is the second item."></Item>
+</ToDoList>
